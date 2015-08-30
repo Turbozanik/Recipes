@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name = "Recipes">Рецепты</string>
+    <string name="Menu">Ваше меню</string>
+    <string name="About">О нас</string>
+    <string name="Clear">Новое меню</string>
+    <string name="Update">ЛОюновляем рецепты</string>
+</resources>

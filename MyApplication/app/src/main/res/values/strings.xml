@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Recipes">Recipes</string>
+    <string name="Menu">Your menu</string>
+    <string name="About">About</string>
+    <string name="Clear">Clear menu</string>
+    <string name="Update">Updating recipes</string>
+</resources>
